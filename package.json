@@ -1,0 +1,25 @@
+{
+  "name": "up",
+  "version": "0.0.1",
+  "description": "uploads files",
+  "main": "app.js",
+  "scripts": {
+    "test": "./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jshawl/up"
+  },
+  "keywords": [
+    "upload"
+  ],
+  "author": "Jesse Shawl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jshawl/up/issues"
+  },
+  "homepage": "https://github.com/jshawl/up",
+  "dependencies": {
+    "scp": "0.0.3"
+  }
+}
