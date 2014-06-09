@@ -1,11 +1,14 @@
 {
-  "name": "up",
+  "name": "upp",
   "version": "0.0.1",
   "description": "uploads files",
   "main": "app.js",
   "scripts": {
     "test": "./app.js"
   },
+  "bin":{
+    "upp":"./app.js"
+  }
   "repository": {
     "type": "git",
     "url": "https://github.com/jshawl/up"
